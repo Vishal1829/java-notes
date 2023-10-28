@@ -1,0 +1,11 @@
+# Ignore .vscode folder in the functionalprogramming directory
+functionalprogramming/.vscode/
+
+# Ignore the src/test folder in the functionalprogramming directory
+functionalprogramming/src/test/
+
+# Ignore the target folder in the functionalprogramming directory
+functionalprogramming/target/
+
+# Ignore the pom.xml file in the functionalprogramming directory
+functionalprogramming/pom.xml
