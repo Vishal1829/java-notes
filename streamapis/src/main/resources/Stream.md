@@ -1,0 +1,36 @@
+### What is Stream?
+- We can consider Stream as a pipeline, through which our collection elements passes through.
+- While elements passes through pipelines, it performs various operations like sorting, filtering etc.
+- Useful when deals with bulk processing. (can do parallel processing)
+
+
+![Steps](s1.jpg)
+![WaysToCreateStream1](s2.png)
+![WaysToCreateStream2](s3.png)
+![IntermediateOperations1](s4.png)
+![IntermediateOperations2](s5.png)
+![IntermediateOperations3](s6.png)
+![IntermediateOperations4](s7.png)
+![IntermediateOperations5](s8.png)
+![IntermediateOperations6](s9.png)
+![IntermediateOperations7](s10.png)
+![IntermediateOperationsAreLazy1](s11.png)
+![IntermediateOperationsAreLazy2](s12.png)
+![SequenceOfStreams1](s13.png)
+![SequenceOfStreams2](s14.png)
+![SequenceOfStreams3](s15.png)
+![TerminalOperations1](s16.png)
+![TerminalOperations2](s17.png)
+![TerminalOperations3](s18.png)
+![TerminalOperations4](s19.png)
+![TerminalOperations5](s20.png)
+![TerminalOperations6](s21.png)
+![TerminalOperations7](s22.png)
+![TerminalOperations8](s23.png)
+![StreamClosedConsumed](s24.png)
+![ParallelStream1](s25.png)
+![ParallelStream2](s26.png)
+![ParallelStream3](s27.png)
+![ParallelStream4](s28.png)
+
+[//]: # (<img src="s1.jpg" alt="Local Image" width="600">)

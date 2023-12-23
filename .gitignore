@@ -6,3 +6,9 @@ functionalprogramming/src/test/
 
 # Ignore the target folder in the functionalprogramming directory
 functionalprogramming/target/
+
+.idea/
+
+streamapis/.idea/
+streamapis/target/
+streamapis/src/test/
